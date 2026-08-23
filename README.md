@@ -7,6 +7,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adii0423/ques_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0066-plus-one](https://github.com/adii0423/ques_Leetcode/tree/main/0066-plus-one/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,6 +15,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/adii0423/ques_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
