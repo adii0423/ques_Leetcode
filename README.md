@@ -25,6 +25,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adii0423/ques_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adii0423/ques_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/adii0423/ques_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
