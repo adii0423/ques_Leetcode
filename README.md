@@ -10,6 +10,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [0027-remove-element](https://github.com/adii0423/ques_Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/adii0423/ques_Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/adii0423/ques_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0724-find-pivot-index](https://github.com/adii0423/ques_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adii0423/ques_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Two Pointers
@@ -64,4 +65,8 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adii0423/ques_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/adii0423/ques_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
