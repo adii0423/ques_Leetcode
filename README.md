@@ -23,6 +23,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/adii0423/ques_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 ## String
@@ -75,5 +76,10 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
