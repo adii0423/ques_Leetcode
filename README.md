@@ -26,6 +26,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/adii0423/ques_Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
