@@ -14,6 +14,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [2057-smallest-index-with-equal-value](https://github.com/adii0423/ques_Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adii0423/ques_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adii0423/ques_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,8 +81,13 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | ------- | ------- |
 | [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/adii0423/ques_Leetcode/tree/main/0258-add-digits/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
