@@ -13,6 +13,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [0724-find-pivot-index](https://github.com/adii0423/ques_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/adii0423/ques_Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/adii0423/ques_Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adii0423/ques_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Two Pointers
