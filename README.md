@@ -13,6 +13,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [0724-find-pivot-index](https://github.com/adii0423/ques_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/adii0423/ques_Leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/adii0423/ques_Leetcode/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adii0423/ques_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/adii0423/ques_Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adii0423/ques_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/adii0423/ques_Leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -29,6 +30,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adii0423/ques_Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adii0423/ques_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
