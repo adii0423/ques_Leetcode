@@ -31,6 +31,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/adii0423/ques_Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adii0423/ques_Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/adii0423/ques_Leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
