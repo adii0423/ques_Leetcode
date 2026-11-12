@@ -38,6 +38,7 @@ Hi, I will be trying out leetcode questions here where i will be posting my Leet
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adii0423/ques_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0412-fizz-buzz](https://github.com/adii0423/ques_Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/adii0423/ques_Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [1927-sum-game](https://github.com/adii0423/ques_Leetcode/tree/main/1927-sum-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
